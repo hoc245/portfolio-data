@@ -1,0 +1,431 @@
+[
+  {
+    "name": "banner-blushbeach",
+    "url": "assets/portfolio/thumbnail/banner-blushbeach.jpg",
+    "filter": "Banner",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Interesting, Energy",
+      "badge": ""
+    }
+  },
+  {
+    "name": "brochure-blushbeach",
+    "url": "assets/portfolio/thumbnail/brochure-blushbeach.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Strong, dynamic, youthful and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "brochure-blushbeach",
+    "url": "assets/portfolio/thumbnail/brochure-blushbeach-02.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Strong, dynamic, youthful and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "flyer-blushbeach",
+    "url": "assets/portfolio/thumbnail/flyer-blushbeach.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Gentle, youthful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "flyer-blushbeach",
+    "url": "assets/portfolio/thumbnail/flyer-blushbeach-02.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Gentle, youthful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "menu-blushbeach",
+    "url": "assets/portfolio/thumbnail/menu-blushbeach.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Youthful, fresh and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "menu-blushbeach",
+    "url": "assets/portfolio/thumbnail/menu-blushbeach-02.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Youthful, fresh and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "menu-blushbeach-03",
+    "url": "assets/portfolio/thumbnail/menu-blushbeach-03.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Youthful, fresh and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "menu-blushbeach-04",
+    "url": "assets/portfolio/thumbnail/menu-blushbeach-04.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Youthful, fresh and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "menu-flyer-blushbeach",
+    "url": "assets/portfolio/thumbnail/menu-flyer-blushbeach.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Youthful and colorful",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "ticket-blushbeach",
+    "url": "assets/portfolio/thumbnail/ticket-blushbeach.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Focus on revenue",
+      "badge": ""
+    }
+  },
+  {
+    "name": "voucher-blushbeach",
+    "url": "assets/portfolio/thumbnail/voucher-blushbeach.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Blush Beach Club Hoi An",
+      "year": "2020",
+      "keys": "Youthful and colorful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "logo-cherry",
+    "url": "assets/portfolio/thumbnail/logo-cherry.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "Cherry Coffee & Drink",
+      "year": "2020",
+      "keys": "Simplicity, coloful and youthful and dynamic",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "logo-cherry-02",
+    "url": "assets/portfolio/thumbnail/logo-cherry-02.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "Cherry Coffee & Drink",
+      "year": "2020",
+      "keys": "Simplicity, coloful and youthful and dynamic",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "logo-cherry-03",
+    "url": "assets/portfolio/thumbnail/logo-cherry-03.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "Cherry Coffee & Drink",
+      "year": "2020",
+      "keys": "Simplicity, coloful and youthful and dynamic",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "menu-cherry",
+    "url": "assets/portfolio/thumbnail/menu-cherry.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Cherry Coffee & Drinks",
+      "year": "2020",
+      "keys": "Youthful and colorful",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "poster-cherry",
+    "url": "assets/portfolio/thumbnail/poster-cherry.jpg",
+    "filter": "Poster",
+    "description": {
+      "company": "Cherry Coffee & Drinks",
+      "year": "2020",
+      "keys": "Youthful, fresh and colorful",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "logo-emstore",
+    "url": "assets/portfolio/thumbnail/logo-emstore.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "EM Store",
+      "year": "2020",
+      "keys": "Simplicity, clarity and cuteness",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "logo-emstore",
+    "url": "assets/portfolio/thumbnail/logo-emstore-02.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "EM Store",
+      "year": "2020",
+      "keys": "Simplicity, clarity and cuteness",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "logo-emstore",
+    "url": "assets/portfolio/thumbnail/logo-cherry-03.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "EM Store",
+      "year": "2020",
+      "keys": "Simplicity, clarity and cuteness",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "folder-Eden",
+    "url": "assets/portfolio/thumbnail/folder-Eden.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Eden Beach Hotel",
+      "year": "2020",
+      "keys": "Gentle, youthful",
+      "badge": ""
+    }
+  },
+  {
+    "name": "poster-eden",
+    "url": "assets/portfolio/thumbnail/poster-eden.jpg",
+    "filter": "Poster",
+    "description": {
+      "company": "Eden Beach Hotel",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "standee-eden",
+    "url": "assets/portfolio/thumbnail/standee-eden.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "Eden Beach Hotel",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "catalogue-NNT",
+    "url": "assets/portfolio/thumbnail/catalogue-NNT.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "invitation-NNT",
+    "url": "assets/portfolio/thumbnail/invitation-NNT.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity",
+      "badge": ""
+    }
+  },
+  {
+    "name": "standee-NNT",
+    "url": "assets/portfolio/thumbnail/standee-NNT.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "standee-NNT",
+    "url": "assets/portfolio/thumbnail/standee-NNT-02.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "standee-NNT",
+    "url": "assets/portfolio/thumbnail/standee-NNT-03.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "standee-NNT",
+    "url": "assets/portfolio/thumbnail/standee-NNT-04.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "voucher-NNT",
+    "url": "assets/portfolio/thumbnail/voucher-NNT.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "voucher-NNT",
+    "url": "assets/portfolio/thumbnail/voucher-NNT-02.jpg",
+    "filter": "Communication",
+    "description": {
+      "company": "NNT Hotel Collection",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": ""
+    }
+  },
+  {
+    "name": "NYM-branding",
+    "url": "assets/portfolio/thumbnail/branding-01.jpg",
+    "filter": "Branding",
+    "description": {
+      "company": "NYM CLOTHING",
+      "year": "2020",
+      "keys": "Vital and Unique",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "menu-parisbar",
+    "url": "assets/portfolio/thumbnail/menu-parisbar.jpg",
+    "filter": "Menu",
+    "description": {
+      "company": "Paris Bar",
+      "year": "2020",
+      "keys": "Classy and classic",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "website",
+    "url": "assets/portfolio/thumbnail/website-01.jpg",
+    "filter": "Web",
+    "description": {
+      "company": "Personal Project",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "website",
+    "url": "assets/portfolio/thumbnail/website-02.jpg",
+    "filter": "Web",
+    "description": {
+      "company": "Personal Project",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "website",
+    "url": "assets/portfolio/thumbnail/website-03.jpg",
+    "filter": "Web",
+    "description": {
+      "company": "Personal Project",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "website",
+    "url": "assets/portfolio/thumbnail/website-04.jpg",
+    "filter": "Web",
+    "description": {
+      "company": "Personal Project",
+      "year": "2020",
+      "keys": "Simplicity, clarity.",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "vivu-logo-option2.2",
+    "url": "assets/portfolio/thumbnail/vivu-logo-option2.2.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "Vivu Coffee & Tea",
+      "year": "2020",
+      "keys": "Unique, interesting. ",
+      "badge": "new"
+    }
+  },
+  {
+    "name": "vivu-logo-option2.2",
+    "url": "assets/portfolio/thumbnail/vivu-logo-option2.jpg",
+    "filter": "Logo",
+    "description": {
+      "company": "Vivu Coffee & Tea",
+      "year": "2020",
+      "keys": "Unique, interesting. ",
+      "badge": "new"
+    }
+  }
+]
